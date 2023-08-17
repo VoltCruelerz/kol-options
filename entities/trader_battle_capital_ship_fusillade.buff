@@ -1,0 +1,38 @@
+{
+    "version": 0,
+    "active_duration": "duration_value",
+    "stacking_limit": "fixed_one",
+    "stacking_ownership_type": "for_all_players",
+    "trigger_event_actions": [
+        {
+            "trigger_event_type": "on_buff_started",
+            "action_group": {
+                "actions": [
+                    {
+                        "action_type": "start_buff_effect",
+                        "effect_definition": {
+                            "effect": "trader_battle_capital_ship_fusillade"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "weapon_modifiers": [
+        {
+            "modifier_type": "cooldown_rate",
+            "value_behavior": "additive",
+            "value_id": "weapon_cooldown_rate_bonus_value"
+        },
+        {
+            "modifier_type": "tracking_speed",
+            "value_behavior": "scalar",
+            "value_id": "weapon_tracking_bonus_value"
+        },
+        {
+            "modifier_type": "hull_armor_penetration",
+            "value_behavior": "scalar",
+            "value_id": "weapon_armor_penetration_bonus_value"
+        }
+    ]
+}

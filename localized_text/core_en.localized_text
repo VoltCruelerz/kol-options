@@ -1,0 +1,12 @@
+{
+    "text": [
+        [
+            "tooltip.ability.weapon_armor_penetration",
+            "Armor Penetration:"
+        ],
+        [
+            "trader_battle_capital_ship_fusillade_ability_description",
+            "Grants a bonus to weapon attack rates, armor penetration, and turret tracking for a short duration."
+        ]
+    ]
+}
