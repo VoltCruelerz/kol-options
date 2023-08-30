@@ -1,0 +1,70 @@
+{
+    "action_values": [
+        {
+            "action_value_id": "antimatter_cost_value",
+            "action_value": {
+                "values": [
+                    85,
+                    85,
+                    85,
+                    85
+                ]
+            }
+        },
+        {
+            "action_value_id": "cooldown_time_value",
+            "action_value": {
+                "values": [
+                    60,
+                    55,
+                    50,
+                    45
+                ]
+            }
+        },
+        {
+            "action_value_id": "duration_value",
+            "action_value": {
+                "values": [
+                    25,
+                    25,
+                    25,
+                    25
+                ]
+            }
+        },
+        {
+            "action_value_id": "weapon_cooldown_duration_bonus_value",
+            "action_value": {
+                "values": [
+                    -0.3,
+                    -0.45,
+                    -0.6,
+                    -0.75
+                ]
+            }
+        },
+        {
+            "action_value_id": "weapon_armor_penetration_bonus_value",
+            "action_value": {
+                "values": [
+                    0.3,
+                    0.6,
+                    0.9,
+                    1.2
+                ]
+            }
+        },
+        {
+            "action_value_id": "weapon_tracking_bonus_value",
+            "action_value": {
+                "values": [
+                    0.15,
+                    0.3,
+                    0.45,
+                    0.6
+                ]
+            }
+        }
+    ]
+}

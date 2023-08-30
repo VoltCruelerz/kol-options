@@ -4,8 +4,8 @@
     "url": "https://github.com/VoltCruelerz/kol-options",
     "description": "Fusillade and Adaptive Force Field are no longer terrible.",
     "version": "1.0.0",
-    "sinsVersion": "1.14.3.0",
-    "greedVersion": "1.1.0",
+    "sinsVersion": "1.15.1.0",
+    "greedVersion": "1.4.0",
     "dependencies": [],
     "conflicts": [],
     "priority": 10

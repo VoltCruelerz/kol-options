@@ -1,0 +1,48 @@
+{
+    "action_values": [
+        {
+            "action_value_id": "antimatter_cost_value",
+            "action_value": {
+                "values": [
+                    50,
+                    50,
+                    50,
+                    50
+                ]
+            }
+        },
+        {
+            "action_value_id": "cooldown_time_value",
+            "action_value": {
+                "values": [
+                    50,
+                    45,
+                    40,
+                    35
+                ]
+            }
+        },
+        {
+            "action_value_id": "damage_taken_bonus_value",
+            "action_value": {
+                "values": [
+                    -0.25,
+                    -0.35,
+                    -0.45,
+                    -0.55
+                ]
+            }
+        },
+        {
+            "action_value_id": "duration_value",
+            "action_value": {
+                "values": [
+                    30,
+                    30,
+                    30,
+                    30
+                ]
+            }
+        }
+    ]
+}

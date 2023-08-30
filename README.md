@@ -15,7 +15,6 @@ Adaptive Force Field meanwhile is useful _eventually_, but starts out clearly su
     - Cooldown Rate: 10%/20%/30%/40% => 30%/40%/50%/60%
     - Fusillade now grants 10/20/30/40 armor penetration
 - Improves the floor of AFF to be useful earlier.
-    - 
 
 ## Installation
 

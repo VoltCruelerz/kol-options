@@ -1,0 +1,9 @@
+{
+    "weapon_modifiers": [
+        {
+            "modifier_type": "hull_armor_penetration",
+            "value_behavior": "scalar",
+            "value_id": "weapon_armor_penetration_bonus_value"
+        }
+    ]
+}
